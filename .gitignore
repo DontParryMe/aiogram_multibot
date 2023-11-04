@@ -1,0 +1,11 @@
+# PyCharm configuration files
+.idea/
+
+# Compiled Python files
+__pycache__/
+
+# Python virtual environment
+venv/
+
+# Ignore the generated bot API tokens file
+tokens.csv
