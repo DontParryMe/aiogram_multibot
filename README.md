@@ -5,12 +5,9 @@ Description of your Python project goes here.
 ## Prerequisites
 To run this project, you need a `tokens.csv` file at the project root dir containing your tokens.
 Here is an example of how the `tokens.csv` file should be structured:
-    """
-        token1
-        token2
-        token3
-    """
-
+    token1
+    token2
+    token3
 
 ## Adding New Bots
 You can easily add new bots to the project. Simply follow the existing format and add as many new bots as you need.
